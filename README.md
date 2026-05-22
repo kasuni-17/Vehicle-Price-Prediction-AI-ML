@@ -7,6 +7,7 @@ A Machine Learning project developed to predict used vehicle prices using regres
 ---
 
 ## 📌 Features
+
 - Data Cleaning & Preprocessing
 - Feature Engineering
 - Multiple ML Models
@@ -15,6 +16,7 @@ A Machine Learning project developed to predict used vehicle prices using regres
 ---
 
 ## 🤖 Models Used
+
 - Linear Regression
 - Decision Tree Regressor
 - Random Forest Regressor
@@ -24,6 +26,7 @@ A Machine Learning project developed to predict used vehicle prices using regres
 ---
 
 ## 🛠️ Technologies
+
 - Python
 - Pandas
 - NumPy
@@ -33,27 +36,33 @@ A Machine Learning project developed to predict used vehicle prices using regres
 ---
 
 ## 📊 Best Result
+
 ✅ Random Forest Regressor achieved the highest accuracy with an R² score of approximately **0.84**
 
 ---
 
 ## 📂 Dataset
+
 Vehicle Dataset from CarDekho (Kaggle)  
 • Link to dataset: https://www.kaggle.com/datasets/nehalbirla/vehicle
-dataset-fromcardekho  
+dataset-fromcardekho
 
 ---
 
 ## 🚀 Purpose
+
 To provide accurate and transparent vehicle price predictions using Machine Learning.
 
 ---
 
 ## 🚀 Future Improvements
-- Add real-time market data  
-- Include vehicle condition and accident history  
-- Deploy as a web application  
-- Improve regional adaptability  
-- Use Deep Learning approaches  
 
-Developed By - A.P Kasuni Lakshika
+- Add real-time market data
+- Include vehicle condition and accident history
+- Deploy as a web application
+- Improve regional adaptability
+- Use Deep Learning approaches
+
+Developed By -
+A.P Kasuni Lakshika
+N.M Thinuka Udara Hettigedara
