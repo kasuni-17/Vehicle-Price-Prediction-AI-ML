@@ -55,7 +55,7 @@ To provide accurate and transparent vehicle price predictions using Machine Lear
 
 ---
 
-## 🚀 Future Improvements
+## 💰Future Improvements
 
 - Add real-time market data
 - Include vehicle condition and accident history
