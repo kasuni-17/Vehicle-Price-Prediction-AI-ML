@@ -64,4 +64,5 @@ To provide accurate and transparent vehicle price predictions using Machine Lear
 - Use Deep Learning approaches
 
 Developed By -
-A.P Kasuni Lakshika
+- A.P Kasuni Lakshika 
+- N.M Thinuka Hettigedara 
